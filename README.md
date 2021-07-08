@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FastAPI Template
 
 A fastapi template with mysql.
@@ -81,3 +82,7 @@ app
 =======
 # fastapi-template
 A fastapi templte, with mysql.
+=======
+# fastapi-template
+A fastapi template, with mysql
+>>>>>>> 58d397d90ffd3587aa248f83b99d230e467aa4a2
