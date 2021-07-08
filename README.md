@@ -59,6 +59,8 @@ uvicorn app.main:app --reload --host 0.0.0.0 --port 9527 --workers 4 --log-confi
 
 and see: http://0.0.0.0:9527/docs
 
+![avatar](images/fastapi_template_swagger.jpg)
+
 
 
 ## Project structure
@@ -77,9 +79,3 @@ app
 ├── app/schemas                      - schemas for using in web routes.
 └── app/tests                        - unitests.
 ```
-
-# fastapi-template
-A fastapi templte, with mysql.
-=======
-# fastapi-template
-A fastapi template, with mysql
